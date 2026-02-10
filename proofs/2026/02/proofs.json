@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "proof_id": "94172a6f-6b14-4dd2-bc1c-1ebfae757caf",
+    "type": "consent",
+    "hash": "ddaee2c8f187726767189788aec1f635f1f189c5cad77d36185889013c58b5b7",
+    "created_at": "2026-02-10T14:05:06.278Z",
+    "context": "ai_training",
+    "version": "1.0"
+  }
+]
