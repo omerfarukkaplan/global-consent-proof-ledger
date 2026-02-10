@@ -6,5 +6,13 @@
     "created_at": "2026-02-10T14:05:06.278Z",
     "context": "ai_training",
     "version": "1.0"
+  },
+  {
+    "proof_id": "6b05972a-b5b0-4526-9dd1-bf65f6ec4718",
+    "type": "consent",
+    "hash": "ddaee2c8f187726767189788aec1f635f1f189c5cad77d36185889013c58b5b7",
+    "created_at": "2026-02-10T14:09:58.608Z",
+    "context": "ai_training",
+    "version": "1.0"
   }
 ]
